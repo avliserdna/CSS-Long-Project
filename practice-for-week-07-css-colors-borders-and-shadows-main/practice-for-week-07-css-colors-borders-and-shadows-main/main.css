@@ -14,23 +14,34 @@
 }
 
 .text1 {
-  background-color: blue;
+  background-color: #242F9B
+  ;
+  color: #DBDFFD
+  ;
 }
 
 .text2 {
-  background-color: burlywood;
+  background-color: #14C38E
+
+  ;
+  color: #B8F1B0
+  ;
 }
 
 .box3 {
-  background-color: lavender;
+  background-color: #2F8F9D
+  ;
+  opacity: 0.6;
 }
 
 .box5 {
   background-color: lemonchiffon;
+  box-shadow: 8px 2px 15px teal;
 }
 
 .box6 {
   background-color: papayawhip;
+  box-shadow: 5px 10px #800000;
 }
 
 
@@ -63,4 +74,8 @@ body {
   height: 100px;
   margin: 0 20px;
   box-sizing: border-box;
+}
+
+h2 {
+  opacity: 0.5;
 }
