@@ -48,19 +48,22 @@ h1 {
     left: 0;
     right: 0;
     bottom: 0;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
 }
 
 .quote {
     /* DO NOT EDIT */
     background-color: lightgray;
     font-size: larger;
-
-    /* Your code here */
+    width: fit-content;
+    padding: 40px;
 }
 
 .attribution {
     /* DO NOT EDIT */
     font-style: italic;
-
-    /* Your code here */
+    display: block;
 }
