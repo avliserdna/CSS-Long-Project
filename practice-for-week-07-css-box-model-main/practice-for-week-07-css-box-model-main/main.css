@@ -8,13 +8,14 @@ html, body {
 #logo {
     /* DO NOT EDIT */
     vertical-align: bottom;
-
-    /* Your code here */
+    width: 30px;
+    height: 30px;
+    margin: 4%;
 }
 
 
 h1 {
-    /* Your code here */
+    display: inline-block;
 }
 
 /* Phase 2 */
